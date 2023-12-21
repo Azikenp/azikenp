@@ -16,6 +16,15 @@
 
 - ⚡ Fun fact **Coding is a passion and not a profession.**
 
+- <span>Sometimes i write at</span>
+  <a  href="https://hashnode.com/@Azikenp" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode.com-0A0A0A.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://medium.com/@azikenp" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+  
+
 
 ---
 
@@ -64,6 +73,9 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
@@ -71,6 +83,9 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
@@ -83,7 +98,7 @@
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+    <img src="https://img.shields.io/badge/vercel-00C7B7.svg?style=for-the-badge&logo=vercel&logoColor=black" alt="firebase"/>
   </a> 
 </p>
 
@@ -103,6 +118,9 @@
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/sublime-007ACC.svg?style=for-the-badge&logo=sublimetext&logoColor=white" alt="vsCode"/> 
   </a>
 </p>
 
@@ -129,8 +147,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=azikenp&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 ----
