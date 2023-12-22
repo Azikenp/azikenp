@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
+  
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
@@ -67,7 +68,23 @@
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
+      alt="web-pack"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/nextjs-7952B3.svg?style=for-the-badge&logo=next.js&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/tailwind-61DAFB.svg?style=for-the-badge&logo=tailwindcss&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="https://mui.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/materialui-8DD6F9.svg?style=for-the-badge&logo=mui&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="https://sass-lang.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sass-7952B3.svg?style=for-the-badge&logo=sass&logoColor=black"
+      alt="react"/> 
   </a>
 </p>
 
@@ -83,13 +100,13 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
+      alt="MongoDB"/> 
   </a> 
+   <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
@@ -131,13 +148,16 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://hashnode.com/@Azikenp" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode.com-0A0A0A.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Hashnode.com-0A66C2.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
     </a>
     <a href="https://medium.com/@azikenp" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
     <a  href="https://www.linkedin.com/in/aziken-precious-712043237/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a  href="mailto:azikenp26@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/gmail-F05032.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
     </a>
   </div>
 </div>
@@ -151,9 +171,4 @@
 </div>
 
 ----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
