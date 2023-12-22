@@ -23,6 +23,8 @@
     <a href="https://medium.com/@azikenp" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
+
+- Oh, and I have a website at https://my-portfolio-azikenp.vercel.app
   
 
 
