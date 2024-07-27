@@ -73,11 +73,11 @@
       alt="web-pack"/>
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://img.shields.io/badge/typescript-764ABC.svg?style=for-the-badge&logo=typescript&logoColor=black"
+    <img src="https://img.shields.io/badge/typescript-764ABC.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/nextjs-7952B3.svg?style=for-the-badge&logo=next.js&logoColor=black"
+    <img src="https://img.shields.io/badge/nextjs-7952B3.svg?style=for-the-badge&logo=next.js&logoColor=white"
       alt="react"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
@@ -89,7 +89,7 @@
       alt="react"/> 
   </a>
   <a href="https://sass-lang.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sass-7952B3.svg?style=for-the-badge&logo=sass&logoColor=black"
+    <img src="https://img.shields.io/badge/sass-7952B3.svg?style=for-the-badge&logo=sass&logoColor=white"
       alt="react"/> 
   </a>
 </p>
