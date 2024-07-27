@@ -72,6 +72,10 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="web-pack"/>
   </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://img.shields.io/badge/typescript-764ABC.svg?style=for-the-badge&logo=webpack&logoColor=black"
+      alt="web-pack"/>
+  </a>
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/nextjs-7952B3.svg?style=for-the-badge&logo=next.js&logoColor=black"
       alt="react"/> 
