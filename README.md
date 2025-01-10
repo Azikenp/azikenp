@@ -173,7 +173,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=azikenp&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Azikenp&theme=radical&border_radius=4)](https://git.io/streak-stats)
 </div>
 
 ----
