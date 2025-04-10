@@ -22,10 +22,6 @@
 ---
 
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
-
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -87,8 +83,6 @@
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
 
-
-<p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="MongoDB"/> 
@@ -143,11 +137,9 @@
 
 ----
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Azikenp&theme=radical&border_radius=4)](https://git.io/streak-stats)
-</div>
+
+/*[![GitHub Streak](https://streak-stats.demolab.com?user=Azikenp&theme=radical&border_radius=4)](https://git.io/streak-stats)*/</div>
 
 ----
 
