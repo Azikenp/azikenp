@@ -5,15 +5,6 @@
 <h1 align="center">Hi there 👋, I'm Aziken Precious</h1>
 <h3 font-size="20" align="center">A Software Developer.</h3>
 
-
-- 🌱 I’m currently learning **To be Expressive** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 🤝 I’m looking for a full-time or freelance **Frontend Job** 
-
-- 💬 Ask me about **anything Javascript related 😆**
-
 - ⚡ Fun fact **Coding is a passion and not a profession.**
 
 - <span>Sometimes i write at</span>
@@ -35,7 +26,7 @@
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -49,10 +40,6 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -92,19 +79,15 @@
     <img src="https://img.shields.io/badge/sass-7952B3.svg?style=for-the-badge&logo=sass&logoColor=white"
       alt="react"/> 
   </a>
-</p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
-</p>
 
-<h3 align="center">Database</h3>
+
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -113,21 +96,14 @@
    <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
-</p>
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/vercel-00C7B7.svg?style=for-the-badge&logo=vercel&logoColor=black" alt="firebase"/>
   </a> 
-</p>
 
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -135,10 +111,7 @@
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
+ 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
