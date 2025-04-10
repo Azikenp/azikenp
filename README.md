@@ -135,11 +135,4 @@
   </div>
 </div>
 
-----
-
-
-
-/*[![GitHub Streak](https://streak-stats.demolab.com?user=Azikenp&theme=radical&border_radius=4)](https://git.io/streak-stats)*/</div>
-
-----
 
