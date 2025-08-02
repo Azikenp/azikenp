@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Aziken Precious</h1>
-<h3 font-size="20" align="center">A Software Developer.</h3>
+<h3 font-size="20" align="center">A Software Engineer</h3>
 
 - ⚡ Fun fact **Coding is a passion and not a profession.**
 
